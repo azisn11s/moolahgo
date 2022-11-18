@@ -10,6 +10,14 @@ This is test result for section 1. If you wanna try in your local.
 - Create MySQL database with name `main_app`
 - Run php artisan migrate.
 
+## Main Files
+- RemitTransactionController
+- IncomingTransactionController
+- RemitRequest
+- IncomingTransactionRequest
+- IncomingTransactionObserver
+- RemitTransactionObserver
+- TransactionLogJob
 
 ## Running Locally
 
